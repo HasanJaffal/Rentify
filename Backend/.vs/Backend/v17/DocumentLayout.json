@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\services\\listingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\services\\listingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\services\\ilistingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\services\\ilistingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\controllers\\listingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\listingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\models\\dtos\\createlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\models\\dtos\\createlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\models\\dtos\\createimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\models\\dtos\\createimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\mappingprofiles\\listingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\mappingprofiles\\listingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\models\\dtos\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\models\\dtos\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\models\\dtos\\checklogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\models\\dtos\\checklogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\data\\rentifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\data\\rentifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|c:\\users\\hassa\\desktop\\rentify\\backend\\backend\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42F440-0012-4DC4-B4F3-DD1FAE6044C0}|Backend\\Backend.csproj|solutionrelative:backend\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeToolTip": "Backend\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T20:38:42.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T20:38:21.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IListingService.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\IListingService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\IListingService.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\IListingService.cs",
+              "RelativeToolTip": "Backend\\Services\\IListingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:24:20.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:15:32.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\ImageDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Dtos\\ImageDto.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\ImageDto.cs",
+              "RelativeToolTip": "Backend\\Models\\Dtos\\ImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:53:04.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\CreateImageDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Dtos\\CreateImageDto.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\CreateImageDto.cs",
+              "RelativeToolTip": "Backend\\Models\\Dtos\\CreateImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:51:51.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListingController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Controllers\\ListingController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ListingController.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Controllers\\ListingController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ListingController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:53:32.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:52:42.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\ImageService.cs",
+              "RelativeToolTip": "Backend\\Services\\ImageService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:36:46.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\IImageService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\IImageService.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\IImageService.cs",
+              "RelativeToolTip": "Backend\\Services\\IImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:35:43.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RentifyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Data\\RentifyDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\RentifyDbContext.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Data\\RentifyDbContext.cs",
+              "RelativeToolTip": "Backend\\Data\\RentifyDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:30:46.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\MappingProfiles\\ListingProfile.cs",
+              "RelativeDocumentMoniker": "Backend\\MappingProfiles\\ListingProfile.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\MappingProfiles\\ListingProfile.cs",
+              "RelativeToolTip": "Backend\\MappingProfiles\\ListingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:24:17.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListingService.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\ListingService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ListingService.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\ListingService.cs",
+              "RelativeToolTip": "Backend\\Services\\ListingService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:28:20.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateListingDto.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\CreateListingDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Dtos\\CreateListingDto.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\CreateListingDto.cs",
+              "RelativeToolTip": "Backend\\Models\\Dtos\\CreateListingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:28:01.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\IMessageService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\IMessageService.cs",
+              "RelativeToolTip": "Backend\\Services\\IMessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:42:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\CheckLoginDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Dtos\\CheckLoginDto.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\CheckLoginDto.cs",
+              "RelativeToolTip": "Backend\\Models\\Dtos\\CheckLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:58:55.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:46:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\UserService.cs",
+              "RelativeToolTip": "Backend\\Services\\UserService.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAA+wC8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:34:47.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Services\\IUserService.cs",
+              "RelativeToolTip": "Backend\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:59:07.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Backend\\Models\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:58:44.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "Backend\\Models\\Domain\\Image.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:58:27.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:58:01.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\Rentify\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T16:58:02.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
